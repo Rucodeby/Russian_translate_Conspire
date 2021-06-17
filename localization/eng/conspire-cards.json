@@ -1,0 +1,100 @@
+{
+  "conspire:Charge": {
+    "NAME": "Зарядка",
+    "DESCRIPTION": "Наносит !D! урона. NL Наносит ещё !M! урона за каждый ход в бою."
+  },
+  "conspire:ExplosiveBarrier": {
+    "NAME": "Взрывчатый барьер",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Наносит !M! урона врагу, который опустит Защиту до 0."
+  },
+  "conspire:HitWhereItHurts": {
+    "NAME": "Бъёт по больному",
+    "DESCRIPTION": "Наносит !D! урона. NL Урон умножается на 125% за каждую Уязвимость.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Наносит !D! урона. NL Урон умножается на 150% за каждую Уязвимость."
+  },
+  "conspire:Purge": {
+    "NAME": "Изгнание",
+    "DESCRIPTION": "Отнимает 5 ОЗ. NL Сжигает карту в руке и навсегда удаляет её из колоды. NL Сжигается.",
+    "EXTENDED_DESCRIPTION": [
+      "Выберите карту, которую хотите Сжечь и удалить из колоды"
+    ]
+  },
+
+  "conspire:DoublingDagger": {
+    "NAME": "Сдвоенный кинжал",
+    "DESCRIPTION": "Добавляет !M! *Заточку в руку. NL Даёт на 1 *Заточку больше за каждое разыгрывание в бою.",
+    "UPGRADE_DESCRIPTION": "Добавляет !M! *Заточки в руку. NL Даёт на 1 *Заточку больше за каждое разыгрывание в бою."
+  },
+  "conspire:PoisonWeapons": {
+    "NAME": "Ядовитые клинки",
+    "DESCRIPTION": "Конвертирует весь урон по ОЗ в Яд на этот ход. NL Сжигается."
+  },
+
+  "conspire:Rain": {
+    "NAME": "Дождь",
+    "DESCRIPTION": "Заряжает 1 Сферу_Воды. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Заряжает 1 Сферу_Воды."
+  },
+  "conspire:SharedLibrary": {
+    "NAME": "Общая библиотека",
+    "DESCRIPTION": "Даёт все эффекты на враге.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Применимо только к эффектам, которые вы можете иметь)",
+      " NL (Не даёт эффекты)",
+      " NL (Даёт ",")"
+    ]
+  },
+
+  "conspire:Banana": {
+    "NAME": "Банан",
+    "DESCRIPTION": "Даёт !M! Макс ОЗ навсегда. NL Сжигается."
+  },
+  "conspire:GhostlyDefend": {
+    "NAME": "Оборона",
+    "DESCRIPTION": "Эфирная. NL Даёт !B! Защиты."
+  },
+  "conspire:GhostlyStrike": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Эфирная. NL Наносит !D! урона."
+  },
+  "conspire:SpireCoStock": {
+    "NAME": "Акции Шпиль-Ка",
+    "DESCRIPTION": "Даёт !M! Золота. NL Сжигается. NL Сумма может изменяться со временем.",
+    "EXTENDED_DESCRIPTION": ["Отнимает !M! Золота. NL Сжигается. NL Сумма может изменяться со временем."]
+  },
+
+  "conspire:InfernalBerry": {
+    "NAME": "Адская ягода",
+    "DESCRIPTION": "Снимает 1 Святость. NL Сжигается."
+  },
+  "conspire:PyramidRune": {
+    "NAME": "Пирамидальная руна",
+    "DESCRIPTION": "Оставляется. NL Сжигается."
+  },
+  "conspire:Treasure": {
+    "NAME": "Сокровище",
+    "DESCRIPTION": "Даёт !M! Золота. NL Сжигается."
+  },
+
+  "conspire:Blindness": {
+    "NAME": "Слепота",
+    "DESCRIPTION": "Неиграбельная. NL Вы больше не сможете видеть намерения врагов до конца боя с конца этого хода."
+  },
+  "conspire:NecroticWound": {
+    "NAME": "Некротическая рана",
+    "DESCRIPTION": "Неиграбельная. NL Добавляет *Рану в стопку добора, когда вы берёте эту карту."
+  },
+
+  "conspire:SausageOptionStrength": {
+    "NAME": "Острая сосика",
+    "DESCRIPTION": " Даёт !M! Силы в начале боя."
+  },
+  "conspire:SausageOptionDexterity": {
+    "NAME": "Выдержанная сосиска",
+    "DESCRIPTION": "Даёт !M! Ловкости в начале боя."
+  },
+  "conspire:SausageOptionFocus": {
+    "NAME": "Копчёная сосиска",
+    "DESCRIPTION": "Даёт !M! Фокуса в начале боя."
+  }
+}
